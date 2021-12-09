@@ -1,0 +1,167 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;	
+	
+}
+
+#menu ul {
+	padding:10px;
+	margin:0px;
+	float: left;
+	width: 100%;
+	background-color:#CFBCEA;
+	list-style:none;
+	font-size: 20px !important;	
+}
+
+
+#menu ul li  img {
+	padding: 20px 20px;
+	float:left;
+}
+
+#butonPgInfunc {
+  position:absolute;
+  margin: auto;
+  top: 50%; left: 32%; bottom: 30%; right: 30%;
+
+}
+
+
+.btn{
+  font-family: arial;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight:700;
+  border-radius: 10px;
+  border: none;
+  padding: 10px;
+  margin: 2%;
+  cursor: pointer;
+  color: #FFFAFA;
+  background-color: #CFBCEA;
+  }
+
+.butonPgIn {
+  font-family: arial;
+  position:absolute;
+  margin: auto;
+  top: 95%; left: 30%;  right: 30%;
+  font-size: 16px; 
+  text-transform: uppercase; 
+  border: none;
+  padding: 20px;
+  cursor: pointer;
+  color: #FFFAFA;
+  background-color: #CFBCEA;
+  border-radius: 10px;
+}
+
+
+#corpo {
+	list-style-type: none !important;
+	position:absolute;
+	margin: 10px;
+	top: 57%; left: 30%; right: 30%;
+	background-color:#E9E9E9;
+    border-radius: 20px;
+    border: none;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	font-size: 25px;
+}
+
+.titulo {
+	font-size: 25px;
+	font-weight: bold;
+	padding-bottom: 10px;
+
+}
+
+#corpocad {
+	position:absolute;
+	margin: 10px;
+	top: 57%; left: 30%; right: 30%;
+	background-color:#E9E9E9;
+    border-radius: 20px;
+    border: none;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 2%;
+	padding-right:2%;
+	font-size: 18px;
+}
+
+ul {
+	list-style:none !important;
+	position: center;
+}
+
+#projeto {
+	top: 57%; left: 10%; right: 55%;
+	position:absolute;
+	margin: 10px;
+	background-color:#E9E9E9;
+    border-radius: 20px;
+    border: 3px solid #CFBCEA;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 2%;
+	padding-right:2%;
+}
+
+#tarefa{
+	top: 57%; left: 55%; right: 10%;
+	position:absolute;
+	margin: 10px;
+	background-color:#E9E9E9;
+    border-radius: 20px;
+    border: 3px solid #CFBCEA;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 2%;
+	padding-right:2%;
+}
+
+.formcad{
+  font-family: arial;
+  border-radius: 10px;
+  border: none;
+  padding: 10px;
+  margin: 2%;
+  background-color: #87ceeb;
+  }
+  
+
+.snip1226 {
+  font-family: 'Raleway', Arial, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+}
+.snip1226 * {
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.snip1226 li {
+  display: inline-block;
+  list-style: outside none none;
+  margin: 0 1.0em;
+  overflow: hidden;
+}
+.snip1226 a {
+  padding: 0.3em 0;
+  color: black;
+  position: relative;
+  display: inline-block;
+  letter-spacing: 1px;
+  margin: 0;
+  text-decoration: none;
+}
+.snip1226 a:before,
+.snip1226 a:after {
+  position: absolute;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
